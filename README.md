@@ -1,6 +1,6 @@
 # Project-Management-Form
 
-<img src="https://iili.io/HMhEOZl.md.png" title="Form Preview">
+<img src="https://iili.io/HMhEOZl.png" title="Form Preview">
 
 ### Description
 
